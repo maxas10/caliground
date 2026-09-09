@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 export default function Page() {
 
     return <div className="flex flex-col gap-10 w-1/2 p-[2vh] overflow-x-hidden">
@@ -14,6 +13,5 @@ export default function Page() {
         <p className="text-xl">Untitled</p>
         <p className="text-xl">Propane Part III (Revolver)</p>
         <p className="text-xl">Tidal Waves / Deflation</p>
-
     </div>;
 }
