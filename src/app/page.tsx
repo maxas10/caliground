@@ -8,7 +8,7 @@ export default function Page() {
       <FloatingItem src="/tidalwaves.jpg" onHover={() => { }} />
       <div className="flex flex-col gap-2 ">
         <h1 className="text-8xl vadionka">tidal waves</h1>
-        <p>album releasing soon</p>
+        <p>album out now !!!</p>
       </div>
     </div>
   </div>;
